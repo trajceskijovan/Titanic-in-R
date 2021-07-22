@@ -40,4 +40,16 @@ Survival chances of ages 20-30 are low
 5. For Queenstown, within 3rd class, female survival rate is better than Cherbourg and male survival rate is worse than Cherbourg
 6. Most of male victims in 2nd class and 3rd class were boarded at Southampton.
 
+# Plot survived against children
+![](Titanic13.png)
+
+1. All children in P2 survived
+2. Most children in P3 die
+3. Consider excluding P3 from the Child
+
+# Adding an “ Solo” variable" based on Siblings and Spouse
+![](Titanic14.png)
+
+
+
 
