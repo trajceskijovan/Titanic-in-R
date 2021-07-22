@@ -28,7 +28,7 @@ Survival chances of ages 20-30 are low
 1. Title and Pclass seem the most important predictors for Age
 2. “Masters” are all very young
 
-# Plot Embarked against Survived with bar chart
+# Plot Embarked against Survived
 ![](Titanic10.png)
 ![](Titanic11.png)
 ![](Titanic12.png)
