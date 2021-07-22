@@ -3,7 +3,7 @@
 # Code:
 https://github.com/trajceskijovan/Titanic-in-R/blob/main/Titanic%20in%20R_ver2.R
 
-# EDA
+# EDA:
 ![](Titanic1.png)
 ![](Titanic2.png)
 ![](Titanic3.png)
@@ -24,16 +24,16 @@ https://github.com/trajceskijovan/Titanic-in-R/blob/main/Titanic%20in%20R_ver2.R
 2. People traveling in families of 2-4 people had a relatively high chance to survive than to die
 3. People traveling in families of 5+ people had a lower chance to survive
 
-# Plot survived against Age with density plot 
+# Plot survived against Age with density plot:
 ![](Titanic8.png)
 Survival chances of ages 20-30 are low
 
-#  Plot survived against Age with boxplot 
+#  Plot survived against Age with boxplot: 
 ![](Titanic9.png)
 1. Title and Pclass seem the most important predictors for Age
 2. “Masters” are all very young
 
-# Plot Embarked against Survived
+# Plot Embarked against Survived:
 ![](Titanic10.png)
 ![](Titanic11.png)
 ![](Titanic12.png)
@@ -45,14 +45,14 @@ Survival chances of ages 20-30 are low
 5. For Queenstown, within 3rd class, female survival rate is better than Cherbourg and male survival rate is worse than Cherbourg
 6. Most of male victims in 2nd class and 3rd class were boarded at Southampton.
 
-# Plot survived against children
+# Plot survived against children:
 ![](Titanic13.png)
 
 1. All children in P2 survived
 2. Most children in P3 die
 3. Consider excluding P3 from the Child
 
-# Adding an “ Solo” variable" based on Siblings and Spouse
+# Adding an “ Solo” variable" based on Siblings and Spouse:
 ![](Titanic14.png)
 
 
