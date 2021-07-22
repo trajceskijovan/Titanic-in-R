@@ -1,4 +1,9 @@
 # Titanic-in-R
+
+# Code:
+https://github.com/trajceskijovan/Titanic-in-R/blob/main/Titanic%20in%20R_ver2.R
+
+# EDA
 ![](Titanic1.png)
 ![](Titanic2.png)
 ![](Titanic3.png)
