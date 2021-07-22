@@ -18,3 +18,7 @@
 1. Solo travelers had a much higher chance to die than to survive.
 2. People traveling in families of 2-4 people had a relatively high chance to survive than to die
 3. People traveling in families of 5+ people had a lower chance to survive
+
+# Plot survived against Age with density plot 
+![](Titanic8.png)
+Survival chances of ages 20-30 are low
