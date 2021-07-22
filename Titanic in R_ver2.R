@@ -2,7 +2,7 @@ library(ggplot2)
 library(dplyr)
 
 # Import data
-train <- read.csv("C:\\Users...\\train.csv", header = TRUE, stringsAsFactors = FALSE, na.strings = c("NA", ""))
+train <- read.csv("C:\\Users\\...\\train.csv", header = TRUE, stringsAsFactors = FALSE, na.strings = c("NA", ""))
 test <- read.csv("C:\\Users\\...\\test.csv",  header = TRUE, stringsAsFactors = FALSE, na.strings = c("NA", "") )
 
 # Data Structure
