@@ -1,7 +1,5 @@
 # Titanic-in-R
 Analyzing Titanic dataset in R
-
-
 ![](Titanic1.png)
 ![](Titanic2.png)
 ![](Titanic3.png)
@@ -10,8 +8,7 @@ Analyzing Titanic dataset in R
 ![](Titanic5.png)
 ![](Titanic6.png)
 
-#Passenger class:
-
+# Passenger class:
 1. Most passengers are from 3rd class
 2. A majority of first-class passengers survived, and most people in 3rd class died
 3. It seems that survival is strongly correlated with the passenger class
