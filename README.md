@@ -22,3 +22,8 @@
 # Plot survived against Age with density plot 
 ![](Titanic8.png)
 Survival chances of ages 20-30 are low
+
+#  Plot survived against Age with boxplot 
+![](Titanic9.png)
+1. Title and Pclass seem the most important predictors for Age
+2. “Masters” are all very young
