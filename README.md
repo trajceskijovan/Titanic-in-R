@@ -14,4 +14,7 @@
 4. Women in 1st and 2nd class had more chance to survive. For men, 2nd class was almost as bad as 3rd class
 
 # Survived against Fsize(family size):
+1. Solo travelers had a much higher chance to die than to survive.
+2. People traveling in families of 2-4 people had a relatively high chance to survive than to die
+3. People traveling in families of 5+ people had a lower chance to survive
 ![](Titanic7.png)
