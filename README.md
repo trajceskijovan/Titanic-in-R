@@ -27,3 +27,17 @@ Survival chances of ages 20-30 are low
 ![](Titanic9.png)
 1. Title and Pclass seem the most important predictors for Age
 2. “Masters” are all very young
+
+# Plot Embarked against Survived with bar chart
+![](Titanic10.png)
+![](Titanic11.png)
+![](Titanic12.png)
+
+1. Many 1st class passengers boarded at Cherbourg
+2. Southampton survival rates are worse than Cherbourg in all Pclass/Sex combinations
+3. Cherbourg survival rates are better than Queenstown
+4. Almost all Queenstown passengers boarded 3rd class
+5. For Queenstown, within 3rd class, female survival rate is better than Cherbourg and male survival rate is worse than Cherbourg
+6. Most of male victims in 2nd class and 3rd class were boarded at Southampton.
+
+
