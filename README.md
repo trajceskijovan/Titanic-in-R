@@ -1,4 +1,5 @@
 # Titanic-in-R
+Analyzing the Titanic dataset in R
 
 # Code:
 https://github.com/trajceskijovan/Titanic-in-R/blob/main/Titanic%20in%20R_ver2.R
@@ -54,7 +55,4 @@ Survival chances of ages 20-30 are low
 
 # Adding an “ Solo” variable" based on Siblings and Spouse:
 ![](samples/Titanic14.png)
-
-
-
 
