@@ -1,5 +1,5 @@
 # Titanic-in-R
-Analyzing the Titanic dataset in R
+Analyzing the Titanic dataset in R Script
 
 # Code:
 https://github.com/trajceskijovan/Titanic-in-R/blob/main/Titanic%20in%20R_ver2.R
